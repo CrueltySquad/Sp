@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#proxy-form {
+    margin-bottom: 1rem;
+}
+
+#proxy-iframe {
+    width: 100%;
+    min-height: 50vh;
+    border: 1px solid #ccc;
+}
